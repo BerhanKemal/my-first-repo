@@ -1,0 +1,4 @@
+# AI Usage When Diagnosing
+
+AI could be helpful with less important things.
+Wrong diagnose could end up badly
